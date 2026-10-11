@@ -1,2 +1,2 @@
 # boba-drops
-funny, cool, kira
+funny, kira
